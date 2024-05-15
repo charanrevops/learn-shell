@@ -1,3 +1,3 @@
 x=10
 
-echo x value is $x
+echo x value is $x or ${x}
