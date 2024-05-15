@@ -1,3 +1,3 @@
 x=10
 
-x value is $x or ${x}
+x value is $x
