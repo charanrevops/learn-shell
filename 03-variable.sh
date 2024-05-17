@@ -12,3 +12,6 @@ echo first argument - $4
 echo second argument - $5
 echo all arguments - $*
 echo number of arguments - $#
+
+
+lastname_firstname=kotha_charan reddy
