@@ -5,7 +5,7 @@ print_hello ()
     echo ' ' hello world
       echo   hello'    '   world
       echo x from main program is $x
-      y=20
+      y=10
 }
 
 x=20
