@@ -11,3 +11,13 @@ print_hello ()
 x=20
 print_hello
 echo y from function is $y
+
+Heading()
+{
+  echo -e "\e[35m$*\e[0m"
+
+}
+
+Heading Installing Nginx
+Heading Installing mysql
+
