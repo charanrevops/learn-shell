@@ -28,6 +28,6 @@ echo command status
 Add=$(($1+$2))
 echo $Add
 
-namen=$($0)
+namen=$0
 
 echo $namen
