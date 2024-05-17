@@ -19,4 +19,5 @@ lastname_firstname=kotha' 'charan' 'reddy' ''$&'
 echo FullName is $lastname_firstname
 
 #command substitution
+echo command substitution
 new=&(ls)
