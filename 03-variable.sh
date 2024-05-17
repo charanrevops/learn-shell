@@ -23,3 +23,4 @@ echo command substitution
 new=$(pwd)
 echo command execution
 n1=$new
+echo command status
