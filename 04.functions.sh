@@ -14,7 +14,7 @@ echo y from function is $y
 
 Heading()
 {
-  echo -e "\e[35m$*\e[0m"
+  echo -e "\e[35m$1\e[0m"
 
 }
 
