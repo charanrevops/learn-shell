@@ -21,3 +21,5 @@ echo FullName is $lastname_firstname
 #command substitution
 echo command substitution
 new=&(pwd)
+
+new
