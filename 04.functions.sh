@@ -1,4 +1,4 @@
-print hello() {
+print_hello() {
   echo hello world
 }
-print hello
+print_hello
