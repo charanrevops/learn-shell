@@ -31,3 +31,5 @@ echo $Add
 namen=$0
 
 echo $namen
+echo $namen
+echo $namen
