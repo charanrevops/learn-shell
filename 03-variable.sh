@@ -25,5 +25,5 @@ echo command execution
 echo $new
 echo command status
 
-Add=$((2+3))
+Add=$(($1+$2))
 echo $Add
