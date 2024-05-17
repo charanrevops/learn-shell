@@ -14,6 +14,6 @@ echo all arguments - $*
 echo number of arguments - $#
 
 
-lastname_firstname=kotha' 'charan' 'reddy
+lastname_firstname=kotha' 'charan' 'reddy' '$&
 
 echo FullName is $lastname_firstname
