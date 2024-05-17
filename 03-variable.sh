@@ -24,3 +24,6 @@ new=$(pwd)
 echo command execution
 echo $new
 echo command status
+
+Add=$((2+3))
+echo SAdd
