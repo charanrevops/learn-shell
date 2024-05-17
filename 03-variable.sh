@@ -22,5 +22,5 @@ echo FullName is $lastname_firstname
 echo command substitution
 new=$(pwd)
 echo command execution
-n1=$new
+echo $new
 echo command status
