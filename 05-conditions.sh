@@ -35,4 +35,6 @@ c='charan'
 d='charan1'
 if [ $c = $d ] ; then
   echo name is $c
+else
+  echo name is $d
 fi
