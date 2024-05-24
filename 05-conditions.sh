@@ -31,8 +31,8 @@ else
 fi
 
 
-c="charan"
-d="charan"
-if [ $c= $d ] ; then
+c='charan'
+d='charan'
+if [ $c = $d ] ; then
   echo passed
 fi
