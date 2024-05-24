@@ -7,7 +7,7 @@ while [ $i -gt 0 ];do
 done
 
 #for
-for course in devops aws azure; do
-  echo welcome to $course training
+for fruits in devops aws azure; do
+  echo welcome to $fruits training
   sleep 1
 done
