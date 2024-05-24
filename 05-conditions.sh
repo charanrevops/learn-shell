@@ -33,7 +33,7 @@ fi
 
 c='111111'
 d='123456'
-if [ $c < $d ] ; then
+if [ $c > $d ] ; then
   echo name is $c
 else
   echo name is $d
