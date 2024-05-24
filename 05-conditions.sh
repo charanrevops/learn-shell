@@ -21,6 +21,7 @@ fi
 if  [ -z "$1" ]; then
     echo No input is provided
 elif [ -z "$2" ];then
+  echo first input is provided and the first input is $1
   echo No 2nd input is provided
 else
   echo Input is provided
