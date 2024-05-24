@@ -31,9 +31,9 @@ else
 fi
 
 
-c='charan'
-d='charan1'
-if [ $c = $d ] ; then
+c='charan111'
+d='charan123'
+if [ $c < $d ] ; then
   echo name is $c
 else
   echo name is $d
