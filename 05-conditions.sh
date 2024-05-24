@@ -34,5 +34,5 @@ fi
 c='charan'
 d='charan'
 if [ $c = $d ] ; then
-  echo passed
+  echo name is $c
 fi
