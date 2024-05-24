@@ -21,3 +21,11 @@ Heading()
 Heading Installing Nginx
 Heading Installing mysql
 
+
+
+demo () {
+  echo Hello
+  return 0
+  echo Bye
+
+}
