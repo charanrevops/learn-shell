@@ -27,6 +27,6 @@ elif [ -z "$2" ];then
 else
   echo first input is provided and the first input is $1
   echo second input is provided and the second input is $2
-  echo First and seconfd inputs are provided
+  echo $# are provided
 fi
 
