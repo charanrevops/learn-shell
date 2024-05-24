@@ -18,3 +18,11 @@ fi
 
 
 
+if  [ -z "$1" ]; then
+    echo No input is provided
+elif [-z "$2"];then
+  echo No 2nd input is provided
+else
+  echo Input is provided
+fi
+
