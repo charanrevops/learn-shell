@@ -32,7 +32,7 @@ fi
 
 
 c='111111'
-d='123456'
+d='111111'
 if [ $c != $d ] ; then
   echo name is $c
 else
