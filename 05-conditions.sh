@@ -32,7 +32,7 @@ fi
 
 
 c='charan'
-d='charan'
+d='charan1'
 if [ $c = $d ] ; then
   echo name is $c
 fi
