@@ -29,3 +29,6 @@ demo () {
   echo Bye
 
 }
+
+demo
+echo return status of funtion -$?
