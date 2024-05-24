@@ -30,3 +30,8 @@ else
   echo $# inputs are provided and the inputs are $*
 fi
 
+
+c="charan"
+d="charan"
+if [ $c= $d ] ; then
+  echo passed
