@@ -24,7 +24,7 @@ Heading Installing mysql
 
 
 demo () {
-  echo Hello
+  echo Hello function display
   exit 100
   echo Bye
 
